@@ -1,0 +1,25 @@
+{
+    "originalAccount": {
+        "email": "someone1@example.com",
+        "password": "mys3cr3T",
+        "profileName": "Erkam D.",
+        "username": "erkamdemirci",
+        "description": "𐱅𐰇𐰼𐰜 🦅 𐰴𐰽𐰣:𐰖𐰃𐰺𐰶 \n Mühendis. Havalar soğuk değilken daha çekilebilir sanki Dünya 🤜🏼 \n Destiny is all.",
+        "profileImageLink": "https://instagram.fbtz1-2.fna.fbcdn.net/v/t51.2885-19/s320x320/117287668_132865365160614_8050141106279092977_n.jpg?_nc_ht=instagram.fbtz1-2.fna.fbcdn.net&_nc_ohc=KoAluXUk_8oAX9B2N-r&tp=1&oh=37781f172d9172d3ba057a65b551a345&oe=60194400",
+        "follower": 1000,
+        "following": 25123,
+        "credit": 29125,
+        "imageLink": "https://images.unsplash.com/photo-1607125435956-323bd982580a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max"
+    },
+    "backupAccount": {
+        "email": "someone1@example.com",
+        "password": "mys3cr3T",
+        "profileName": "Ali Veli",
+        "username": "alivelideli",
+        "description": "𐱅𐰇𐰼𐰜 🦅 𐰴𐰽𐰣:𐰖𐰃𐰺𐰶 \n Mühendis. Havalar soğuk değilken daha çekilebilir sanki Dünya 🤜🏼 \n Destiny is all.",
+        "follower": 250,
+        "following": 500,
+        "credit": 27500,
+        "imageLink": "https://images.unsplash.com/photo-1517070208541-6ddc4d3efbcb?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80"
+    }
+}
